@@ -8,4 +8,12 @@ deneme 6
 
 
 
+<<<<<<< HEAD
 deneme 50
+=======
+
+
+
+
+deneme 100
+>>>>>>> refs/remotes/origin/master
